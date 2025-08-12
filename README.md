@@ -1,14 +1,11 @@
 # Old to Gold: How to Modernize Your Legacy ASP.NET Apps Gradually
 Talk by Jonathan "J." Tower
 
-We've all said it. “Why did they do it like that?” Without Architectural Decision Records (ADRs), these mysteries are inevitable. But don't fear, ADRs don’t mean boring documentation—these lightweight notes capturing the "why" behind your team’s decisions, saving you from future frustration and misunderstandings.
+Legacy applications built with ASP.NET can take a long time to migrate. Doing this work all at once isn't very agile, so in this session we'll explore using YARP (Yet Another Reverse Proxy), .NET Upgrade Assistant, and the "Strangler Fig" pattern to incrementally migrate your legacy ASP.NET applications to modern technologies like ASP.NET Core.
 
-In this session, we’ll explore:
-* Why teams forget their own decisions (spoiler: memory isn’t version control).
-* How to write ADRs that are concise, useful, and not boring.
-* Funny examples of what happens when ADRs are missing—and how they can save your sanity.
+While it might have a funny name, YARP is a very serious tool when it comes to helping you upgrade your legacy ASP.NET projects to ASP.NET Core. The best part is, it helps you do the upgrade gradually and with minimal impact to your users. When done with the help of the .NET Upgrade Assistant, you can also kick off the process without breaking a sweat.
 
-Say goodbye to “What were they thinking?” and hello to “Oh, that’s why!”
+You'll walk away more knowledgeable about these tools that help you with your migrations, and learn some of the shims that are available the make certain cross-cutting concerns easier to integrate between your legacy and modern applications. If you might have a legacy migration in your future, you're going to want to join us for this!
 
 ## Expert Consultation Offer
 https://bit.ly/th-offer
