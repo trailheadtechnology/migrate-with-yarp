@@ -1,11 +1,9 @@
 # Old to Gold: How to Modernize Your Legacy ASP.NET Apps Gradually
 Talk by Jonathan "J." Tower
 
-Legacy applications built with ASP.NET can take a long time to migrate. Doing this work all at once isn't very agile, so in this session we'll explore using YARP (Yet Another Reverse Proxy), .NET Upgrade Assistant, and the "Strangler Fig" pattern to incrementally migrate your legacy ASP.NET applications to modern technologies like ASP.NET Core.
+Your existing .NET Web APIs have served you well—but what if they could do more with them in the era of AI? In this session, we’ll explore how to breathe new life into your existing ASP.NET Web API endpoints built with ASP.NET CORE by adding Model Creation Protocol (MCP) capabilities to them. We'll look at how the MCP C# SDK makes it simple to annotate your existing controllers, instantly transforming your REST endpoints into AI-powered services that can empower LLMs and agents. We’ll also compare this approach to a no-code approaches using Azure API Management. 
 
-While it might have a funny name, YARP is a very serious tool when it comes to helping you upgrade your legacy ASP.NET projects to ASP.NET Core. The best part is, it helps you do the upgrade gradually and with minimal impact to your users. When done with the help of the .NET Upgrade Assistant, you can also kick off the process without breaking a sweat.
-
-You'll walk away more knowledgeable about these tools that help you with your migrations, and learn some of the shims that are available the make certain cross-cutting concerns easier to integrate between your legacy and modern applications. If you might have a legacy migration in your future, you're going to want to join us for this!
+Finally we'll look at where both of these approaches fall short and are only a starting point for a good long-term MCP design. You can use then to jump start the process and then follow the path we outline together to evolve your APIs from technical plumbing to intelligent, task-focused tools that solve real problems using AI—all without starting from scratch.
 
 ## Expert Consultation Offer
 https://bit.ly/th-offer
