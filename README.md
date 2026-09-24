@@ -7,5 +7,5 @@ While it might have a funny name, YARP is a very serious tool when it comes to h
 
 You'll walk away more knowledgeable about these tools that help you with your migrations, and learn some of the shims that are available the make certain cross-cutting concerns easier to integrate between your legacy and modern applications. If you might have a legacy migration in your future, you're going to want to join us for this!
 
-## Expert Consultation Offer
-https://bit.ly/th-offer
+## Schedule Time With Me
+https://trailheadtechnology.com/connect/?t=migrate-with-yarp
